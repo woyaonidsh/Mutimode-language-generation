@@ -1,2 +1,4 @@
 # Mutimode
-这是一个校级大创项目（多模态任务），输入文本与图片，模型根据两种模态信息自动生成文本（不可训练，数据集缺失，代码也有bug）
+
+· Introduction
+  Pytorch implementation for 2019-2020 innovation project of Beijing institute of technology. The task is mainly concentrated on Mutimodel problem that means the inputs of neural network include different modality information

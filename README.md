@@ -5,9 +5,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;`I am a junior student majoring in computer science.` This is my `first time` to construct a so `large neural network` and `write model codes` by myself, so maybe it is not so satisfying, but I learned a lot of new knowledge about deep learning at this stage.  
 
 ### ●Task description  
->>Our different modality information is consisted by image and text  
->>Input：`image + sentences` （There is `less connection` between images and sentences）  
->>Output：text  
+>Our different modality information is consisted by image and text  
+>Input：`image + sentences` （There is `less connection` between images and sentences）  
+>Output：`text` 
 
 ### ●Model structure  
  ![image](https://github.com/woyaonidsh/Mutimode-language-generation/blob/master/model.png)  
@@ -23,9 +23,11 @@
 
 ### ●Dataset  
 &nbsp;&nbsp;&nbsp;&nbsp;YueYin Ren，my team member， help me construct a text dataset that contains `13368` documents and `575741` sentences in total. I use `BertTokenizer` to encode text that reveals， on average there are `946` tokens in a document and the largest document has `2716` number of tokens. Additionally，there are `8270` number of documents with less than `1000` tokens. Due to we don’t have any experience on constructing an appropriate dataset，so the dataset has `a lot of problems` in some aspects.  
-&nbsp;&nbsp;&nbsp;&nbsp;The image dataset is obtained on `http://cocodataset.org`. The image file name are `2017 Val images` that consists of `5000` pictures and `2017 Train/Val annotations`  
+&nbsp;&nbsp;&nbsp;&nbsp;The image dataset is obtained on [`http://cocodataset.org`][1]. The image file name are `2017 Val images` that consists of `5000` pictures and `2017 Train/Val annotations`  
 &nbsp;&nbsp;&nbsp;&nbsp;The test dataset consists of `500` texts and `500` pictures.  
 &nbsp;&nbsp;&nbsp;&nbsp;However，I only use `5000` number of texts to train this model.  
+
+ [1]: http://cocodataset.org        "http://cocodataset.org" 
 
 ### ●Environments  
 

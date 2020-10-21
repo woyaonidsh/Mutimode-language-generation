@@ -34,7 +34,7 @@
 `Python3.7`   `cuda10.2`  
 
 ### ●Train  
-&nbsp;&nbsp;&nbsp;&nbsp;;If you want to train this model，you need download Bert-base-uncased model in firstly. Because I use it to tokenize the text and sentence. Then, you just need to follow the step below：  
+&nbsp;&nbsp;&nbsp;&nbsp;If you want to train this model，you need download Bert-base-uncased model in firstly. Because I use it to tokenize the text and sentence. Then, you just need to follow the step below：  
 
 `python main.py`  
 

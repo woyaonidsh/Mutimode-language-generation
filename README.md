@@ -10,7 +10,7 @@
    Output：text
 
 ●Model structure
- 
+ ![image](https://github.com/woyaonidsh/Mutimode-language-generation/blob/master/model.png)
 
 ●Model composition
   The neural network mainly consists of four models：

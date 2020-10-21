@@ -1,6 +1,6 @@
 # Mutimodel-text generation
 
-●Introduction  
+●<font face="黑体" color=green size=20>我是黑体，绿色，尺寸为5</font>    
    Pytorch implementation for 2019-2020 innovation project of Beijing institute of Technology. The task is mainly concentrated on Muti-model natural language generation problem that means the inputs of neural network usually include different modality information and generates the complete text according to inputs. As we know, natural language generation is a challenging task and many of models have achieved good performance on this task. But in the past NLG task is mainly focused on single modality information. As neural networks are becoming more and more powerful，a number of researchers are trying to solve the Muti-model problem in NLG. Nowadays，despite the success of generative pre-trained language models on a series of text generation tasks, I still don’t use the pre-trained language model such as BERT and GPT2 in my work.
    I am a junior student majoring in computer science. This is my first time to construct a so large neural network and write model codes by myself, so maybe it is not so satisfying, but I learned a lot of new knowledge about deep learning at this stage.
 

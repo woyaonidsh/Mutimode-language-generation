@@ -47,7 +47,7 @@
 
 ### ●contacts  
 &nbsp;&nbsp;&nbsp;&nbsp;If you have any `questions` or want to give me some `suggestions`, please contact with me, I will response it as soon as possible.
-My Email：`jzl1601763588@163.com` or `1120182394@bit.edu.cn`
+My Email：jzl1601763588@163.com or 1120182394@bit.edu.cn
 
 
 
